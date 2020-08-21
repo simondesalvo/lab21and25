@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5943D0EB-AFFB-46B0-9EEF-74A35D12874C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Registration.cshtml">
+    <Files>
+      <File FileName="Views/Home/Index.cshtml" Line="3" Column="2" />
+      <File FileName="Controllers/HomeController.cs" Line="44" Column="46" />
+      <File FileName="Models/EmptyClass.cs" Line="15" Column="9" />
+      <File FileName="Views/Home/Registration.cshtml" Line="9" Column="45" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="28" Column="141" />
+      <File FileName="Views/Home/Display.cshtml" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="movieregistration" expanded="True">
+            <Node name="movieregistration" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Registration.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.movieregistration PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Movie Registration Display";
+}
+
+@model Movie
+
+<h5>Here's what you entered:</h5>
+
+<p>ID: @Model.Id
+    <br/>
+    Title: @Model.Title
+    <br/>
+    Genre: @Model.Genre
+    <br/>
+    Year: @Model.Year
+    <br/>
+Actors:<br/>
+    @foreach( var actor in @Model.Actors)
+    {
+        @actor <br/>
+    }
+Directors:<br/>
+    @foreach(var director in @Model.Directors)
+    {
+        @director <br/>
+    }
+    <br/>
+    <h3>@Model.Title has been registered.</h3>
+</p>
